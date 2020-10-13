@@ -25,3 +25,7 @@ Follow the instructions mentioned here: http://www.ibiblio.org/shadow/pgp/instal
 # Validating the installation
 - git-secret: `git-secret --version`
 - gpg: `gpg --version`
+
+# How to use git-secret
+- Follow instructions given by git-secret: https://git-secret.io/
+- Or youtube: https://www.youtube.com/watch?v=zyev7RPqi5o
